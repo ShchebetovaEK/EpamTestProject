@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+    <device name="iPhone">
+
+        <weight>
+            56.9
+        </weight>
+        <price>
+            8889
+        </price>
+        <type>
+            phone
+        </type>
+        <sim>
+            1
+        </sim>
+
+    </device>
+
+    <device name="Samsung">
+
+        <weight>
+            114.9
+        </weight>
+        <price>
+            809
+        </price>
+        <type>
+            phone
+        </type>
+        <sim>
+            2
+        </sim>
+
+    </device>
+
+    <device name="Lenovo">
+
+        <weight>
+            1156.9
+        </weight>
+        <price>
+            89111
+        </price>
+        <type>
+            laptop
+        </type>
+        <touchScreen>
+            false
+        </touchScreen>
+
+    </device>
+
+    <device name="HP">
+
+        <weight>
+            1956.9
+        </weight>
+        <price>
+            73711
+        </price>
+        <type>
+            laptop
+        </type>
+        <touchScreen>
+            true
+        </touchScreen>
+
+    </device>
+
+    <device name="Http">
+
+        <weight>
+            456.9
+        </weight>
+        <price>
+            2311
+        </price>
+        <type>
+            reader
+        </type>
+        <button>
+            4
+        </button>
+
+    </device>
+
+    <device name="Frige">
+
+        <weight>
+            1986.9
+        </weight>
+        <price>
+            7611
+        </price>
+        <type>
+            reader
+        </type>
+        <button>
+            1
+        </button>
+
+    </device>
+
+    <device name="Joop">
+
+        <weight>
+            776.9
+        </weight>
+        <price>
+            5311
+        </price>
+        <type>
+            tablet
+        </type>
+        <stilus>
+            false
+        </stilus>
+
+    </device>
+
+    <device name="Panasonic">
+
+        <weight>
+            1256.9
+        </weight>
+        <price>
+            9632
+        </price>
+        <type>
+            tablet
+        </type>
+        <stilus>
+            true
+        </stilus>
+
+    </device>
+
+</list>

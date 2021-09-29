@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+    <employee>
+        <firstName>Александр</firstName>
+        <lastName>Петров</lastName>
+        <equipment>
+            <item>
+                HP
+            </item>
+            <item>
+                iPhone
+            </item>
+        </equipment>
+    </employee>
+
+    <employee>
+        <firstName>Данила</firstName>
+        <lastName>Козловский</lastName>
+        <equipment>
+            <item>
+                Samsung
+            </item>
+
+        </equipment>
+    </employee>
+
+    <employee>
+        <firstName>Сергей</firstName>
+        <lastName>Бурунов</lastName>
+        <equipment>
+            <item>
+                Http
+            </item>
+            <item>
+                Joop
+            </item>
+        </equipment>
+    </employee>
+
+    <employee>
+        <firstName>Зоя</firstName>
+        <lastName>Фильгельштейн</lastName>
+        <equipment>
+            <item>
+                Lenovo
+            </item>
+            <item>
+                iPhone
+            </item>
+        </equipment>
+    </employee>
+
+
+</list>
+
+
